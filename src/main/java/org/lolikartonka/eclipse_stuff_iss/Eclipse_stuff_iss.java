@@ -30,6 +30,8 @@ import net.minecraftforge.registries.RegistryObject;
 import org.lolikartonka.eclipse_stuff_iss.registry.SpellsRegistry;
 import org.slf4j.Logger;
 
+//Не обращайте внимание на огромное количество комментариев, я их оставил после создания проекта только чтобы не потерятся.
+
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(Eclipse_stuff_iss.MODID)
 public class Eclipse_stuff_iss {
